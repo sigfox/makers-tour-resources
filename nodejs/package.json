@@ -1,0 +1,14 @@
+{
+  "name": "sigfox-nodejs-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "serialport":"1.7.x"
+  },
+  "author": "nicolsc",
+  "license": "ISC"
+}
