@@ -11,6 +11,6 @@ sigfox.write("AT$SF=48 45 4c 4c 4f 20 57 4f 52 4c 44\n");
 }
 void loop(){
 while (sigfox.available()){
-Serial.print(sigfox.read());
+Serial.write(sigfox.read());
 }
 }
