@@ -8,7 +8,7 @@ void setup(){
   Serial.begin(9600);
   sigfox.begin(9600);
   delay(300);
-  sigfox.write("AT$SF=55 50 4c 49 4e 4b, 2, 1\r");
+  sigfox.write("AT$SF=55 50 4c 49 4e 4b,2,1\r");
   String downlinkString;
   
   downlinkString = waitForDownlink();  
