@@ -8,10 +8,10 @@ Used as resources for the [SIGFOX Makers Tour](http://makers.sigfox.com/tour)
 
 ###Arduino 
 
-* [Hello World](./Arduino/hello-world)
-* [Mirror](./Arduino/serial-mirror)
-* [Photocell sensor](./Arduino/photocell)
-* [Downlink example](./Arduino/downlink)
+* [Hello World](./Akeru/hello-world)
+* [Mirror](./Akeru/serial-mirror)
+* [Photocell sensor](./Akeru/photocell)
+* [Downlink example](./Akeru/downlink)
 
 
 ###Direct AT commands
