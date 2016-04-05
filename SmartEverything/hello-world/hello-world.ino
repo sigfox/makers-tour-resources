@@ -7,6 +7,9 @@ void setup() {
   delay(500);
 
   ledBlueLight(HIGH);
+  SigFox.print("+++");
+  ledBlueLight(LOW);
+  delay(300);
   bool success;
   success = sendSigfox("1234CAFE");
   ledBlueLight(LOW);
