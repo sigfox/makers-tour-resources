@@ -26,7 +26,7 @@ void sendSigfox(String frame){
   
  Serial.print("Sending  ");
  Serial.println(frame);
-return;
+;
  sigfox.write("AT$SF=");
  sigfox.print(frame);
  sigfox.write("\n");
