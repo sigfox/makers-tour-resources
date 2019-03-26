@@ -1,5 +1,7 @@
 #SIGFOX Makers Tour
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sigfox/makers-tour-resources.svg)](https://greenkeeper.io/)
+
 Basic examples to get starting with SIGFOX.
 
 Used as resources for the [SIGFOX Makers Tour](http://makers.sigfox.com/tour)
